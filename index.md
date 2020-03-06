@@ -6,12 +6,10 @@ layout: page
 title: Home
 permalink: /
 ---
-# Posts
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+# Welcome!
+
+I'm SargntSprinkles, and this is my site. I hope you find something useful here!
+
+# Projects
+
+Pathfinder 2E SRD API (coming soon)
