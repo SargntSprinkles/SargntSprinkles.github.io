@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
 ---
 <!-- Pagination links -->
 <div class="pagination">
