@@ -10,4 +10,4 @@ I enjoys TTRPGs, especially Pathfinder, especially 2e
 ![Nat 20!](/assets/pathfinder.jpg)
 
 I also enjoy playing Smash Bros. I main Sonic, gotta go fast!
-![Sonic speed!](/assets/sonic.file)
+![Sonic speed!](/assets/sonic.jpg)
