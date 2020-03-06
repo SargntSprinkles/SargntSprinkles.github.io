@@ -16,8 +16,7 @@
 title: SargntSprinkles
 email: leathermanba@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my developer blog where I'll post updates on the projects that I'm working on,
-  or whatever else I feel like.
+  This is my developer blog where I'll post updates on the projects that I'm working on
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SargntSprinkles
