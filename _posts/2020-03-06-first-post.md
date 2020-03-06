@@ -7,5 +7,6 @@ tags: [pf2e, api]
 excerpt_separator: <!--more-->
 ---
 Obligatory first post!
+<!--more-->
 
-I just discovered Github Pages, and I'm excited to start making some projects!<!--more--> The first project that I'd like to tackle is an API for the [Pathfinder 2E SRD](http://2e.aonprd.com/). I should have at least a placeholder for the project up in Github Pages soon!
+I just discovered Github Pages, and I'm excited to start making some projects! The first project that I'd like to tackle is an API for the [Pathfinder 2E SRD](http://2e.aonprd.com/). I should have at least a placeholder for the project up in Github Pages soon!
