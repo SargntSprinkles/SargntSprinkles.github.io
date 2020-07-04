@@ -12,4 +12,6 @@ I'm SargntSprinkles, and this is my site. I hope you find something useful here!
 
 # Projects
 
+Thorough Report - Organized Play Tracker (coming soon)
+
 Pathfinder 2E SRD API (coming soon)
