@@ -8,10 +8,8 @@ permalink: /
 ---
 # Welcome!
 
-I'm SargntSprinkles, and this is my site. I hope you find something useful here!
+I'm SargntSprinkles, and this is my personal developer site. I hope you find something useful here! If you do, consider [buying me a coffee](https://www.buymeacoffee.com/SargntSprinkles)?
 
 # Projects
 
-Thorough Report - Organized Play Tracker (coming soon)
-
-Pathfinder 2E SRD API (coming soon)
+\[[Github](https://github.com/SargntSprinkles/lion-turtle)\] Lion Turtle - Character creator for Avatar Legends The Roleplaying Game
